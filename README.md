@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Engineering and ML Engineering.
 - 👯 I’m looking to collaborate on Machine Learning and Web3 Projects.
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [@KrizKrozR](https://twitter.com/KrizKrozR)
+
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 
-
+- 📫 How to reach me: [@KrizKrozR](https://twitter.com/KrizKrozR)
 - ⚡ Fun fact: ... -->
